@@ -3,4 +3,4 @@ Fast Analytical 3D Registration Method Proposed by Jin Wu, Ming Liu, Zebo Zhou a
 
 # Paper
 
-Related paper has been submitted to IEEE Transactions on Instrumentation and Measurement.
+Related paper has been submitted to Int. J. Comput. Vis.
