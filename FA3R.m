@@ -1,5 +1,4 @@
 % Fast Analytical 3D Registration
-% Submitted to IEEE Transactions on Robotics
 % Authors: Jin Wu, Ming Liu et al.
 % Copytight (c) 2018
 
