@@ -1,6 +1,6 @@
 % Fast Analytical 3D Registration
-% Authors: Jin Wu, Ming Liu et al.
-% Copytight (c) 2018
+% Authors: Jin Wu
+% Copytight (c) 2019
 
 function [C, T, time, loss, expn] = FA3R( MM, r_base, b_base, compute_expn, compute_metric )
 
