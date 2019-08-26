@@ -1,6 +1,6 @@
 # FA3R
-Fast Analytical 3D Registration Method Proposed by Jin Wu, Ming Liu, Zebo Zhou and Rui Li
+Fast Analytical 3D Registration Method Proposed by Jin Wu
 
 # Paper
 
-Related paper has been submitted to IEEE Trans. Auto. Sci. Eng.
+Related paper has been submitted to IEEE Trans. Instrum. Meas.
