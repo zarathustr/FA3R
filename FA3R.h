@@ -29,6 +29,12 @@ void FA3R_double(const vector<Vector3d>* P,
                  int num,
 	             Matrix3d * rRes,
 	             Vector3d * tRes);
+	             
+void eig3D_eig(const vector<Vector3d>* P,
+	const vector<Vector3d>* Q,
+	Matrix3d * sigma,
+	Matrix3d * rRes,
+	Vector3d * tRes);
 
 
 #endif
